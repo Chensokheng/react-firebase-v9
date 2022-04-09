@@ -71,4 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - [x] set up react router
 - [x] initialize firebase
-- [ ] authentication
+- [x] authentication
+
+Firestore
+
+- [ ] create
+- [ ] read
+- [ ] list
+- [ ] delete
+- [ ] update
+- [ ] realtime
+- [ ] pagination
